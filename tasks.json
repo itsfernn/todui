@@ -1,0 +1,227 @@
+[
+    {
+        "ical": "BEGIN:VTODO\r\nCREATED:20250616T064141Z\r\nDTSTAMP:20250616T064231Z\r\nDUE;VALUE=DATE:20250616\r\nLAST-MODIFIED:20250616T064141Z\r\nPRIORITY:9\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:add book Patriot to reader\r\nUID:4020121543621323671\r\nX-APPLE-SORT-ORDER:759235214\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Default Tasks.org description\r\nTRIGGER;RELATED=END:P0D\r\nEND:VALARM\r\nEND:VTODO\r\n",
+        "calendar": "Personal",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/personal-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCREATED:20250314T001935Z\r\nDESCRIPTION:- Prove of stay\\n- Report\\n- other (signatures etc.)\r\nDTSTAMP:20250407T065542Z\r\nDUE;VALUE=DATE:20250314\r\nLAST-MODIFIED:20250407T065535Z\r\nPRIORITY:9\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Scholarship Requirements\r\nUID:3850022301623082342\r\nX-APPLE-SORT-ORDER:712264992\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Default Tasks.org description\r\nTRIGGER;RELATED=END:P0D\r\nEND:VALARM\r\nEND:VTODO\r\n",
+        "calendar": "Japan",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/3075496659691251197/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122657Z\r\nDTSTART;VALUE=DATE:20250707\r\nDUE;VALUE=DATE:20250707\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:131389ee-bc36-478c-a7c5-1e417aee93ac\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122654Z\r\nDTSTART;VALUE=DATE:20250710\r\nDUE;VALUE=DATE:20250710\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:7e8195c6-e7a0-466b-bc27-e4260743668f\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122702Z\r\nDTSTART;VALUE=DATE:20250714\r\nDUE;VALUE=DATE:20250714\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:17b59587-02ec-4502-9322-27112d73ee6b\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122653Z\r\nDTSTART;VALUE=DATE:20250721\r\nDUE;VALUE=DATE:20250721\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:13a9e3e3-94e4-4556-9684-530ab19f0155\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122653Z\r\nDTSTART;VALUE=DATE:20250728\r\nDUE;VALUE=DATE:20250728\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Altpapier\r\nUID:490c4551-9910-48db-a4c1-6e649975baac\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122700Z\r\nDTSTART;VALUE=DATE:20250728\r\nDUE;VALUE=DATE:20250728\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:ffc08f41-20d3-402e-adae-c090452e225b\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122654Z\r\nDTSTART;VALUE=DATE:20250804\r\nDUE;VALUE=DATE:20250804\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:1fb31462-188b-46a1-9be3-c20e15aec6c8\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122656Z\r\nDTSTART;VALUE=DATE:20250807\r\nDUE;VALUE=DATE:20250807\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:04c544ba-6b4c-41c2-8483-2c760ff3819d\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122656Z\r\nDTSTART;VALUE=DATE:20250811\r\nDUE;VALUE=DATE:20250811\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:1ff0950d-1407-4aeb-9d48-c0318a86fb01\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122655Z\r\nDTSTART;VALUE=DATE:20250818\r\nDUE;VALUE=DATE:20250818\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:a5a3a641-2dc3-42e5-a33c-23383f1f0b39\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122657Z\r\nDTSTART;VALUE=DATE:20250825\r\nDUE;VALUE=DATE:20250825\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:cbd71b3f-ec15-47aa-8bdc-8db2b4b06887\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122659Z\r\nDTSTART;VALUE=DATE:20250825\r\nDUE;VALUE=DATE:20250825\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Altpapier\r\nUID:d68afd04-4ce1-4162-a18d-f5d966f18415\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122654Z\r\nDTSTART;VALUE=DATE:20250901\r\nDUE;VALUE=DATE:20250901\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:5afb9e5a-fae6-43f4-90b0-d6ef03e5afaf\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122657Z\r\nDTSTART;VALUE=DATE:20250904\r\nDUE;VALUE=DATE:20250904\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:7d87d20b-95c4-452a-ab6b-361e1f3dbd6c\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122701Z\r\nDTSTART;VALUE=DATE:20250908\r\nDUE;VALUE=DATE:20250908\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:6c017631-f494-4c87-91f0-20616a70941c\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122655Z\r\nDTSTART;VALUE=DATE:20250915\r\nDUE;VALUE=DATE:20250915\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:8fa32df6-205d-4944-87b3-beb405f54af8\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122700Z\r\nDTSTART;VALUE=DATE:20250922\r\nDUE;VALUE=DATE:20250922\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:8d752cfe-7d49-47dd-b40f-1da3602bc210\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122703Z\r\nDTSTART;VALUE=DATE:20250922\r\nDUE;VALUE=DATE:20250922\r\nLAST-MODIFIED:20250228T122653Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Altpapier\r\nUID:9e4a3175-621d-4a6b-8258-eec6ecea7846\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122658Z\r\nDTSTART;VALUE=DATE:20250929\r\nDUE;VALUE=DATE:20250929\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:0f9396f0-2b2b-45d6-9c8f-9d4c839070ed\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122653Z\r\nDTSTART;VALUE=DATE:20251002\r\nDUE;VALUE=DATE:20251002\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:62c11cc3-cbd8-4b5b-b900-99b367bce18d\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122656Z\r\nDTSTART;VALUE=DATE:20251006\r\nDUE;VALUE=DATE:20251006\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:15ca5fac-fad7-4144-aee4-5e3bf75f2217\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122654Z\r\nDTSTART;VALUE=DATE:20251013\r\nDUE;VALUE=DATE:20251013\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:80a382f4-61b9-4c28-9909-15152283e939\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122701Z\r\nDTSTART;VALUE=DATE:20251020\r\nDUE;VALUE=DATE:20251020\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:987abdb1-3244-451b-87d0-9a554daf83c3\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122704Z\r\nDTSTART;VALUE=DATE:20251020\r\nDUE;VALUE=DATE:20251020\r\nLAST-MODIFIED:20250228T122653Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Altpapier\r\nUID:63d339d9-0275-4a35-a5d5-3bb83e2740fe\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122659Z\r\nDTSTART;VALUE=DATE:20251027\r\nDUE;VALUE=DATE:20251027\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:e0fd4887-1c97-4f0f-8cc7-0a61e4c57e57\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122656Z\r\nDTSTART;VALUE=DATE:20251030\r\nDUE;VALUE=DATE:20251030\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:58178006-169a-4630-8b0a-9f4d5507acb4\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122653Z\r\nDTSTART;VALUE=DATE:20251103\r\nDUE;VALUE=DATE:20251103\r\nLAST-MODIFIED:20250228T122649Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:70a8fc9d-4b14-4600-b263-fa1e10a80db8\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122703Z\r\nDTSTART;VALUE=DATE:20251110\r\nDUE;VALUE=DATE:20251110\r\nLAST-MODIFIED:20250228T122653Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:652d44c4-2cfd-47ec-b096-0b8cd079ad83\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122653Z\r\nDTSTART;VALUE=DATE:20251117\r\nDUE;VALUE=DATE:20251117\r\nLAST-MODIFIED:20250228T122649Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:7395ead2-2c38-4082-960f-4478c4db1819\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122656Z\r\nDTSTART;VALUE=DATE:20251117\r\nDUE;VALUE=DATE:20251117\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Altpapier\r\nUID:06d870e1-8dca-4cf2-9b71-998061e0b2c2\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122654Z\r\nDTSTART;VALUE=DATE:20251124\r\nDUE;VALUE=DATE:20251124\r\nLAST-MODIFIED:20250228T122650Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:eabc4d40-9541-4fbe-b232-3be529c56b25\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122659Z\r\nDTSTART;VALUE=DATE:20251127\r\nDUE;VALUE=DATE:20251127\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:3d90c503-f9cc-41f1-86d7-8f31b34f01e9\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122701Z\r\nDTSTART;VALUE=DATE:20251201\r\nDUE;VALUE=DATE:20251201\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:1ace8b32-1b1d-4589-9df2-fb248e673351\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122658Z\r\nDTSTART;VALUE=DATE:20251208\r\nDUE;VALUE=DATE:20251208\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:465579f1-1fab-49d2-b0ed-779843d3aa7b\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122657Z\r\nDTSTART;VALUE=DATE:20251215\r\nDUE;VALUE=DATE:20251215\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Altpapier\r\nUID:f9b8fb08-7b5f-416b-8d83-1eda53aca099\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122703Z\r\nDTSTART;VALUE=DATE:20251215\r\nDUE;VALUE=DATE:20251215\r\nLAST-MODIFIED:20250228T122653Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:76322663-6565-479f-9713-980b4791de81\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122704Z\r\nDTSTART;VALUE=DATE:20251221\r\nDUE;VALUE=DATE:20251221\r\nLAST-MODIFIED:20250228T122653Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:1353ac63-ae87-4274-8977-cd903eb62edf\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122658Z\r\nDTSTART;VALUE=DATE:20251226\r\nDUE;VALUE=DATE:20251226\r\nLAST-MODIFIED:20250228T122651Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:LVP\r\nUID:ad746930-6b06-4193-8436-d4f7b89b2b09\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCLASS:PUBLIC\r\nCREATED:20250121T125449Z\r\nDTSTAMP:20250228T122703Z\r\nDTSTART;VALUE=DATE:20251229\r\nDUE;VALUE=DATE:20251229\r\nLAST-MODIFIED:20250228T122652Z\r\nSEQUENCE:2\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:Restabfall\r\nUID:219a30ce-2163-402d-bb94-d64d179bee5b\r\nEND:VTODO\r\n",
+        "calendar": "Abfall",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/imported-abfallkalender-daneygasse-15-6020-innsbruckics-2/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCREATED:20250609T122839Z\r\nDTSTAMP:20250609T122839Z\r\nDUE;VALUE=DATE:20250610\r\nLAST-MODIFIED:20250609T122839Z\r\nSEQUENCE:5\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:TEST TODO\r\nUID:e4e911b6-451e-11f0-8320-867227ff6065\r\nEND:VTODO\r\n",
+        "calendar": "test_calendar",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/9e73dcd4-451e-11f0-8320-867227ff6065/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCREATED:20241028T121715Z\r\nDTSTAMP:20250613T073225Z\r\nDTSTART;VALUE=DATE:20250619\r\nDUE;VALUE=DATE:20250620\r\nLAST-MODIFIED:20250613T073138Z\r\nPERCENT-COMPLETE:0\r\nPRIORITY:9\r\nRRULE:FREQ=WEEKLY\r\nSEQUENCE:13\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:W\u00e4sche machen.\r\nUID:564911505172198617\r\nX-APPLE-SORT-ORDER:725914867\r\nX-MOZ-GENERATION:2\r\nX-MOZ-LASTACK:20250219T140353Z\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Default Tasks.org description\r\nTRIGGER;RELATED=END:P0D\r\nEND:VALARM\r\nEND:VTODO\r\n",
+        "calendar": "Household",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/household-1/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCREATED:20250207T075358Z\r\nDTSTAMP:20250609T123955Z\r\nDTSTART;VALUE=DATE:20250216\r\nDUE;VALUE=DATE:20250610\r\nLAST-MODIFIED:20250609T123919Z\r\nPERCENT-COMPLETE:0\r\nPRIORITY:9\r\nSEQUENCE:3\r\nSTATUS:NEEDS-ACTION\r\nSUMMARY:[qgis] upload code\r\nUID:40818341312525420\r\nX-APPLE-SORT-ORDER:712264997\r\nX-MOZ-GENERATION:2\r\nX-MOZ-LASTACK:20250216T153451Z\r\nBEGIN:VALARM\r\nACTION:DISPLAY\r\nDESCRIPTION:Default Tasks.org description\r\nTRIGGER;RELATED=END:P0D\r\nEND:VALARM\r\nEND:VTODO\r\n",
+        "calendar": "University",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/university-1/"
+    },
+    {
+        "ical": "BEGIN:VTODO\r\nCREATED:20250129T103522Z\r\nDTSTAMP:20250228T122708Z\r\nLAST-MODIFIED:20250228T122705Z\r\nPRIORITY:9\r\nSUMMARY:[qgis] upload presentation\r\nUID:3207678106111655276\r\nX-APPLE-SORT-ORDER:712264999\r\nEND:VTODO\r\n",
+        "calendar": "University",
+        "calendar_url": "https://cloud.hofbauer.tech:443/remote.php/dav/calendars/lukas/university-1/"
+    }
+]
